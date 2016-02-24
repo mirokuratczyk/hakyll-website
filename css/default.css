@@ -314,10 +314,10 @@ header
   right          : 0px;
   height         : 240px;
   background     : -webkit-linear-gradient(top,rgb(76,206,173) 0%,rgb(76,206,173) 100%);
-  background     : -moz-linear-gradient(top,rgb(76,206,173) 0%,rgb(255,180,70) 100%);
-  background     : -ms-linear-gradient(top,rgb(76,206,173) 0%,rgb(255,180,70) 100%);
-  background     : -o-linear-gradient(top,rgb(76,206,173) 0%,rgb(255,180,70) 100%);
-  background     : linear-gradient(top,rgb(76,206,173) 0%,rgb(255,180,70) 100%);
+  background     : -moz-linear-gradient(top,rgb(76,206,173) 0%,rgb(76,206,173) 100%);
+  background     : -ms-linear-gradient(top,rgb(76,206,173) 0%,rgb(76,206,173) 100%);
+  background     : -o-linear-gradient(top,rgb(76,206,173) 0%,rgb(76,206,173) 100%);
+  background     : linear-gradient(top,rgb(76,206,173) 0%,rgb(76,206,173) 100%);
   font-size      : 20px;
   line-height    : 30px;
   font-family    : "Europa","Helvetica", sans-serif;
