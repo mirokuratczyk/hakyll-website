@@ -30,4 +30,6 @@ In recent years I can remember reading:
 + **The Curse of Lono,** *Hunter S. Thompson*
 + **Fear and Loathing in Las Vegas,** *Hunter S. Thompson*
 + **The Electric Kool-Aid Acid Test,** *Tom Wolfe*
++ **Fleshmarket Alley,** *Ian Rankin*
++ **Ready Player One,** *Ernest Cline*
 
