@@ -7,8 +7,6 @@ title: Books
 I am currently reading:
 
 + **Swann's Way,** *Marcel Proust*
-+ **The Sound and the Fury,** *William Faulkner*
-+ **The Great Shark Hunt,** *Hunter S. Thompson*
 + **Oblivion,** *David Foster Wallace*
 
 In recent years I can remember reading:
@@ -32,4 +30,5 @@ In recent years I can remember reading:
 + **The Electric Kool-Aid Acid Test,** *Tom Wolfe*
 + **Fleshmarket Alley,** *Ian Rankin*
 + **Ready Player One,** *Ernest Cline*
-
++ **The Sound and the Fury,** *William Faulkner*
++ **The Great Shark Hunt,** *Hunter S. Thompson*
