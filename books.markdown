@@ -8,6 +8,8 @@ I am currently reading:
 
 + **Swann's Way,** *Marcel Proust*
 + **Oblivion,** *David Foster Wallace*
++ **The Man Who Knew,** *Sebastian Mallaby*
++ **Hyperion,** *Dan Simmons*
 
 In recent years I can remember reading:
 
@@ -32,3 +34,4 @@ In recent years I can remember reading:
 + **Ready Player One,** *Ernest Cline*
 + **The Sound and the Fury,** *William Faulkner*
 + **The Great Shark Hunt,** *Hunter S. Thompson*
++ **The Golden House,** *Salman Rushdie*
